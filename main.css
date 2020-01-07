@@ -1,0 +1,16 @@
+.btn{
+    width:45px;
+    height:45px
+}
+.gameField{
+	display: flex;
+	flex-direction: column;
+	visibility: hidden;
+}
+.row{
+	display: flex;
+}
+
+#gameOff{
+	visibility: hidden;
+}
